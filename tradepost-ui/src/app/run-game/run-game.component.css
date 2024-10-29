@@ -1,0 +1,7 @@
+.game-canvas {
+  display: flex;
+  width: calc(100vw - 0px);
+  height: calc(100vh - 0px);
+
+  object-fit: none;
+}
